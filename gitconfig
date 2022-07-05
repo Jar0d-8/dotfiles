@@ -55,3 +55,5 @@
 [user]
 	email = yohan.jean@gmx.fr
 	name = jarod
+[safe]
+	directory = /home/jarod/code/Jar0d-8/data-challenges
